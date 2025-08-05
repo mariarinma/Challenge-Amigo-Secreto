@@ -12,7 +12,7 @@ Este proyecto permite ingresar nombres y realizar un sorteo aleatorio para elegi
 - Sortear un nombre aleatorio como el "amigo secreto".
 
 ---
-## 🛠Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - HTML5
 - CSS3
@@ -30,6 +30,6 @@ Este proyecto permite ingresar nombres y realizar un sorteo aleatorio para elegi
 
 ## Autor
 
-Desarrollado por [Maria Jose Rincon Manrique] ✨  
+Desarrollado por Maria Jose Rincon Manrique ✨  
 
 ---
